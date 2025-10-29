@@ -1,0 +1,1550 @@
+[
+{
+  "model": "admin.logentry",
+  "pk": 1,
+  "fields": {
+    "action_time": "2025-10-23T16:30:28.627Z",
+    "user": 2,
+    "content_type": 7,
+    "object_id": "1",
+    "object_repr": "Cake",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 2,
+  "fields": {
+    "action_time": "2025-10-23T16:30:52.065Z",
+    "user": 2,
+    "content_type": 7,
+    "object_id": "2",
+    "object_repr": "Brownie",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 3,
+  "fields": {
+    "action_time": "2025-10-23T16:31:17.964Z",
+    "user": 2,
+    "content_type": 7,
+    "object_id": "3",
+    "object_repr": "Cupcake",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 4,
+  "fields": {
+    "action_time": "2025-10-23T16:31:51.448Z",
+    "user": 2,
+    "content_type": 7,
+    "object_id": "4",
+    "object_repr": "Mousse",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 5,
+  "fields": {
+    "action_time": "2025-10-23T16:32:08.949Z",
+    "user": 2,
+    "content_type": 7,
+    "object_id": "5",
+    "object_repr": "Pudding",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 6,
+  "fields": {
+    "action_time": "2025-10-23T16:32:32.023Z",
+    "user": 2,
+    "content_type": 7,
+    "object_id": "6",
+    "object_repr": "Tart",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 7,
+  "fields": {
+    "action_time": "2025-10-23T16:32:59.202Z",
+    "user": 2,
+    "content_type": 7,
+    "object_id": "7",
+    "object_repr": "Donut",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 8,
+  "fields": {
+    "action_time": "2025-10-23T16:33:40.231Z",
+    "user": 2,
+    "content_type": 7,
+    "object_id": "8",
+    "object_repr": "Macaron",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 9,
+  "fields": {
+    "action_time": "2025-10-23T16:34:08.700Z",
+    "user": 2,
+    "content_type": 7,
+    "object_id": "9",
+    "object_repr": "Pie",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 10,
+  "fields": {
+    "action_time": "2025-10-23T16:34:34.249Z",
+    "user": 2,
+    "content_type": 7,
+    "object_id": "10",
+    "object_repr": "Pastry",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 11,
+  "fields": {
+    "action_time": "2025-10-23T16:42:35.984Z",
+    "user": 2,
+    "content_type": 9,
+    "object_id": "1",
+    "object_repr": "Strawberry Cheesecake",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 12,
+  "fields": {
+    "action_time": "2025-10-23T16:43:37.971Z",
+    "user": 2,
+    "content_type": 9,
+    "object_id": "2",
+    "object_repr": "Classic Brownie",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 13,
+  "fields": {
+    "action_time": "2025-10-23T16:44:53.060Z",
+    "user": 2,
+    "content_type": 9,
+    "object_id": "3",
+    "object_repr": "Vanilla Cupcake",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 14,
+  "fields": {
+    "action_time": "2025-10-23T16:46:09.946Z",
+    "user": 2,
+    "content_type": 9,
+    "object_id": "4",
+    "object_repr": "Chocolate Mousse",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 15,
+  "fields": {
+    "action_time": "2025-10-23T16:47:31.896Z",
+    "user": 2,
+    "content_type": 9,
+    "object_id": "5",
+    "object_repr": "Red Velvet Cake",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 16,
+  "fields": {
+    "action_time": "2025-10-23T16:48:23.311Z",
+    "user": 2,
+    "content_type": 9,
+    "object_id": "6",
+    "object_repr": "Walnut Brownie",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 17,
+  "fields": {
+    "action_time": "2025-10-23T16:49:19.745Z",
+    "user": 2,
+    "content_type": 9,
+    "object_id": "7",
+    "object_repr": "Chocolate Cupcake",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 18,
+  "fields": {
+    "action_time": "2025-10-23T16:52:37.506Z",
+    "user": 2,
+    "content_type": 9,
+    "object_id": "8",
+    "object_repr": "Mango Mousse",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 19,
+  "fields": {
+    "action_time": "2025-10-23T16:55:48.018Z",
+    "user": 2,
+    "content_type": 9,
+    "object_id": "9",
+    "object_repr": "Black Forest",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 20,
+  "fields": {
+    "action_time": "2025-10-23T16:58:20.302Z",
+    "user": 2,
+    "content_type": 9,
+    "object_id": "10",
+    "object_repr": "Blueberry Cheesecake",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 21,
+  "fields": {
+    "action_time": "2025-10-23T16:59:15.191Z",
+    "user": 2,
+    "content_type": 9,
+    "object_id": "11",
+    "object_repr": "Oreo Brownie",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 22,
+  "fields": {
+    "action_time": "2025-10-23T17:00:11.054Z",
+    "user": 2,
+    "content_type": 9,
+    "object_id": "12",
+    "object_repr": "Lemon Cupcake",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 23,
+  "fields": {
+    "action_time": "2025-10-23T17:03:41.484Z",
+    "user": 2,
+    "content_type": 9,
+    "object_id": "13",
+    "object_repr": "Tiramisu Mousse",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 24,
+  "fields": {
+    "action_time": "2025-10-23T17:04:57.715Z",
+    "user": 2,
+    "content_type": 9,
+    "object_id": "14",
+    "object_repr": "Peanut Butter Brownie",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 25,
+  "fields": {
+    "action_time": "2025-10-23T17:06:35.767Z",
+    "user": 2,
+    "content_type": 9,
+    "object_id": "15",
+    "object_repr": "Caramel Custard Pudding",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 26,
+  "fields": {
+    "action_time": "2025-10-23T17:07:36.107Z",
+    "user": 2,
+    "content_type": 9,
+    "object_id": "16",
+    "object_repr": "Chocolate Lava Pudding",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 27,
+  "fields": {
+    "action_time": "2025-10-23T17:09:14.555Z",
+    "user": 2,
+    "content_type": 9,
+    "object_id": "17",
+    "object_repr": "Vanilla Milk Pudding",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 28,
+  "fields": {
+    "action_time": "2025-10-23T17:10:42.673Z",
+    "user": 2,
+    "content_type": 9,
+    "object_id": "18",
+    "object_repr": "Mango Pudding",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 29,
+  "fields": {
+    "action_time": "2025-10-23T17:11:56.419Z",
+    "user": 2,
+    "content_type": 9,
+    "object_id": "19",
+    "object_repr": "Lemon Tart",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 30,
+  "fields": {
+    "action_time": "2025-10-23T17:15:16.990Z",
+    "user": 2,
+    "content_type": 9,
+    "object_id": "20",
+    "object_repr": "Chocolate Ganache Tart",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 31,
+  "fields": {
+    "action_time": "2025-10-23T17:16:11.379Z",
+    "user": 2,
+    "content_type": 9,
+    "object_id": "21",
+    "object_repr": "Berry Cream Tart",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 32,
+  "fields": {
+    "action_time": "2025-10-23T17:17:33.765Z",
+    "user": 2,
+    "content_type": 9,
+    "object_id": "22",
+    "object_repr": "Chocolate Donut",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 33,
+  "fields": {
+    "action_time": "2025-10-23T17:18:43.366Z",
+    "user": 2,
+    "content_type": 9,
+    "object_id": "23",
+    "object_repr": "Strawberry Glazed Donut",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 34,
+  "fields": {
+    "action_time": "2025-10-23T17:19:46.697Z",
+    "user": 2,
+    "content_type": 9,
+    "object_id": "24",
+    "object_repr": "Vanilla Frost Donut",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 35,
+  "fields": {
+    "action_time": "2025-10-23T17:21:27.432Z",
+    "user": 2,
+    "content_type": 9,
+    "object_id": "25",
+    "object_repr": "Classic French Macaron",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 36,
+  "fields": {
+    "action_time": "2025-10-23T17:22:23.153Z",
+    "user": 2,
+    "content_type": 9,
+    "object_id": "26",
+    "object_repr": "Chocolate Macaron",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 37,
+  "fields": {
+    "action_time": "2025-10-23T17:23:12.297Z",
+    "user": 2,
+    "content_type": 9,
+    "object_id": "27",
+    "object_repr": "Apple Pie",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 38,
+  "fields": {
+    "action_time": "2025-10-23T17:24:41.392Z",
+    "user": 2,
+    "content_type": 9,
+    "object_id": "28",
+    "object_repr": "Chocolate Cream Pie",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 39,
+  "fields": {
+    "action_time": "2025-10-23T17:25:52.181Z",
+    "user": 2,
+    "content_type": 9,
+    "object_id": "29",
+    "object_repr": "Chocolate Truffle Pastry",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 40,
+  "fields": {
+    "action_time": "2025-10-25T01:11:55.835Z",
+    "user": 2,
+    "content_type": 6,
+    "object_id": "10",
+    "object_repr": "feeefiii9@gmail.com",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 41,
+  "fields": {
+    "action_time": "2025-10-25T01:13:56.503Z",
+    "user": 2,
+    "content_type": 6,
+    "object_id": "10",
+    "object_repr": "feeefiii9@gmail.com",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Is superuser\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 42,
+  "fields": {
+    "action_time": "2025-10-25T03:14:07.109Z",
+    "user": 2,
+    "content_type": 6,
+    "object_id": "10",
+    "object_repr": "feeefiii9@gmail.com",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Is staff\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 43,
+  "fields": {
+    "action_time": "2025-10-25T10:07:16.859Z",
+    "user": 2,
+    "content_type": 6,
+    "object_id": "12",
+    "object_repr": "aaaa@gmail.com",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 44,
+  "fields": {
+    "action_time": "2025-10-25T10:07:16.859Z",
+    "user": 2,
+    "content_type": 6,
+    "object_id": "11",
+    "object_repr": "abcd@gmail.com",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 45,
+  "fields": {
+    "action_time": "2025-10-25T10:07:16.859Z",
+    "user": 2,
+    "content_type": 6,
+    "object_id": "24",
+    "object_repr": "asdf@gmail.com",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 46,
+  "fields": {
+    "action_time": "2025-10-25T10:07:16.859Z",
+    "user": 2,
+    "content_type": 6,
+    "object_id": "25",
+    "object_repr": "asdff@gmail.com",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 47,
+  "fields": {
+    "action_time": "2025-10-25T10:07:16.859Z",
+    "user": 2,
+    "content_type": 6,
+    "object_id": "20",
+    "object_repr": "asdfghj@gmail.com",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 48,
+  "fields": {
+    "action_time": "2025-10-25T10:07:16.859Z",
+    "user": 2,
+    "content_type": 6,
+    "object_id": "13",
+    "object_repr": "ddd@gmail.com",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 49,
+  "fields": {
+    "action_time": "2025-10-25T10:07:16.859Z",
+    "user": 2,
+    "content_type": 6,
+    "object_id": "5",
+    "object_repr": "fathima@gmail.com",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 50,
+  "fields": {
+    "action_time": "2025-10-25T10:07:16.859Z",
+    "user": 2,
+    "content_type": 6,
+    "object_id": "3",
+    "object_repr": "fathimafiyanoushin@gmail.com",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 51,
+  "fields": {
+    "action_time": "2025-10-25T10:07:16.859Z",
+    "user": 2,
+    "content_type": 6,
+    "object_id": "10",
+    "object_repr": "feeefiii9@gmail.com",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 52,
+  "fields": {
+    "action_time": "2025-10-25T10:07:16.859Z",
+    "user": 2,
+    "content_type": 6,
+    "object_id": "21",
+    "object_repr": "kadeejakkutti@gmail.com",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 53,
+  "fields": {
+    "action_time": "2025-10-25T10:07:16.859Z",
+    "user": 2,
+    "content_type": 6,
+    "object_id": "16",
+    "object_repr": "mariyam@gmail.com",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 54,
+  "fields": {
+    "action_time": "2025-10-25T10:07:16.859Z",
+    "user": 2,
+    "content_type": 6,
+    "object_id": "17",
+    "object_repr": "marvakt@gmail.com",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 55,
+  "fields": {
+    "action_time": "2025-10-25T10:07:16.859Z",
+    "user": 2,
+    "content_type": 6,
+    "object_id": "18",
+    "object_repr": "marvaktt@gmail.com",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 56,
+  "fields": {
+    "action_time": "2025-10-25T10:07:16.859Z",
+    "user": 2,
+    "content_type": 6,
+    "object_id": "7",
+    "object_repr": "nishadsha@gmail.com",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 57,
+  "fields": {
+    "action_time": "2025-10-25T10:07:16.859Z",
+    "user": 2,
+    "content_type": 6,
+    "object_id": "6",
+    "object_repr": "niya@gmail.com",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 58,
+  "fields": {
+    "action_time": "2025-10-25T10:07:16.859Z",
+    "user": 2,
+    "content_type": 6,
+    "object_id": "23",
+    "object_repr": "niyal@gmail.com",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 59,
+  "fields": {
+    "action_time": "2025-10-25T10:07:16.859Z",
+    "user": 2,
+    "content_type": 6,
+    "object_id": "22",
+    "object_repr": "niyas@gmail.com",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 60,
+  "fields": {
+    "action_time": "2025-10-25T10:07:16.859Z",
+    "user": 2,
+    "content_type": 6,
+    "object_id": "8",
+    "object_repr": "rhba@gmail.com",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 61,
+  "fields": {
+    "action_time": "2025-10-25T10:07:16.859Z",
+    "user": 2,
+    "content_type": 6,
+    "object_id": "19",
+    "object_repr": "rishinsalam@gmail.com",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 62,
+  "fields": {
+    "action_time": "2025-10-25T10:07:16.859Z",
+    "user": 2,
+    "content_type": 6,
+    "object_id": "14",
+    "object_repr": "sajapt@gmail.com",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 63,
+  "fields": {
+    "action_time": "2025-10-25T10:07:16.859Z",
+    "user": 2,
+    "content_type": 6,
+    "object_id": "4",
+    "object_repr": "shahidhaazeez8@gmail.com",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 64,
+  "fields": {
+    "action_time": "2025-10-25T10:07:16.859Z",
+    "user": 2,
+    "content_type": 6,
+    "object_id": "9",
+    "object_repr": "sundaripoocha@gmail.com",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 65,
+  "fields": {
+    "action_time": "2025-10-25T10:07:16.859Z",
+    "user": 2,
+    "content_type": 6,
+    "object_id": "15",
+    "object_repr": "zzz@gmail.com",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 66,
+  "fields": {
+    "action_time": "2025-10-25T10:27:57.642Z",
+    "user": 2,
+    "content_type": 6,
+    "object_id": "27",
+    "object_repr": "adminfia@gmail.com",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 67,
+  "fields": {
+    "action_time": "2025-10-27T04:13:11.672Z",
+    "user": 2,
+    "content_type": 6,
+    "object_id": "28",
+    "object_repr": "fathimafiyanoushin@gmail.com",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "ej4u2ia32l7iclmjg1m58273vwr5q57p",
+  "fields": {
+    "session_data": ".eJxVjMEOwiAQRP-FsyGFsiAevfsNZJddpGrapLQn47_bJj3obTLvzbxVwnWpaW0yp4HVRVl1-u0I81PGHfADx_uk8zQu80B6V_RBm75NLK_r4f4dVGx1W3tjnFjrvBHgGLNkX4jBhlgiheC7wIBnS44BYmbw0hN2iEBmC6VXny_cojg1:1vBxzk:KE25kik8UL9nsQgDQ56jQ0WGrD8ojCDVDXgk8caI0jU",
+    "expire_date": "2025-11-06T16:16:56.991Z"
+  }
+},
+{
+  "model": "api.user",
+  "pk": 1,
+  "fields": {
+    "password": "$2b$12$NEIRQIYzBTiJpjQni5yjkOa6fv9D1g7xk0Wf/OKzlXAk36Ss4M1Mm",
+    "last_login": null,
+    "is_superuser": false,
+    "email": "adminfiya@gmail.com",
+    "name": "adminfiya",
+    "role": "admin",
+    "is_active": true,
+    "is_staff": true,
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "api.user",
+  "pk": 2,
+  "fields": {
+    "password": "$2b$12$yPPvXZKCnKxs2YzuVEUSqu.4b1fGkERRpZ20Ts181URD5JJMAbbL2",
+    "last_login": "2025-10-23T16:16:56.982Z",
+    "is_superuser": true,
+    "email": "admin99@gmail.com",
+    "name": "admin99",
+    "role": "admin",
+    "is_active": true,
+    "is_staff": true,
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "api.user",
+  "pk": 26,
+  "fields": {
+    "password": "pbkdf2_sha256$1000000$YV3U4EMiUPfc1LWr6A8NJQ$TRHqjITFmWdlUk23F8Qb+jpI2764Id+1eKoL/9uNjUY=",
+    "last_login": null,
+    "is_superuser": false,
+    "email": "asdf@gmail.com",
+    "name": "ashfaque",
+    "role": "user",
+    "is_active": true,
+    "is_staff": false,
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "api.user",
+  "pk": 27,
+  "fields": {
+    "password": "pbkdf2_sha256$1000000$Ux7fFRzWVA6snK3G6ZAbnZ$NRO49hVAATs4rKcawDt7+EDB2Yq9f1qtl/VTefrK824=",
+    "last_login": "2025-10-25T10:27:28Z",
+    "is_superuser": false,
+    "email": "adminfia@gmail.com",
+    "name": "adminfia",
+    "role": "admin",
+    "is_active": true,
+    "is_staff": true,
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "api.user",
+  "pk": 28,
+  "fields": {
+    "password": "pbkdf2_sha256$1000000$GkbQaPl9xIRgLwuyxOODjy$jPL0yCv2DJZFBdF1wT7Vuw94PyqSydsBGZfTQ+LJvBo=",
+    "last_login": null,
+    "is_superuser": true,
+    "email": "fathimafiyanoushin@gmail.com",
+    "name": "fiyanoushin@gmail.com",
+    "role": "admin",
+    "is_active": true,
+    "is_staff": true,
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "api.user",
+  "pk": 29,
+  "fields": {
+    "password": "pbkdf2_sha256$1000000$4zWabeKOy9m5z6TFZnI2fy$/g237CA1mO9kKYydhrSa904zcfNf+Ot7AzGIeAe2qs0=",
+    "last_login": null,
+    "is_superuser": false,
+    "email": "shahidhaazeez8@gmail.com",
+    "name": "shahidha",
+    "role": "user",
+    "is_active": true,
+    "is_staff": false,
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "api.user",
+  "pk": 30,
+  "fields": {
+    "password": "pbkdf2_sha256$1000000$qfS0TQERDeqMRosf1Ltf3R$NbifXn/zSjYkDfr4F8r3RmiRJeNC/q1GhygUNBVZLgs=",
+    "last_login": null,
+    "is_superuser": false,
+    "email": "Ktmarwa51@gmail.com",
+    "name": "marva",
+    "role": "user",
+    "is_active": true,
+    "is_staff": false,
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "api.user",
+  "pk": 31,
+  "fields": {
+    "password": "pbkdf2_sha256$1000000$qCojBaFR0A3IvpozMLWHRY$/JR0FmNhF/rgHCeGuW5SOOQoNIpu0AMQ1LlfRlJ6mv8=",
+    "last_login": null,
+    "is_superuser": false,
+    "email": "fathimaraheeba8@gmail.com",
+    "name": "raheeba",
+    "role": "user",
+    "is_active": true,
+    "is_staff": false,
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "api.category",
+  "pk": 1,
+  "fields": {
+    "name": "Cake",
+    "image": "categories/cak.jpg"
+  }
+},
+{
+  "model": "api.category",
+  "pk": 2,
+  "fields": {
+    "name": "Brownie",
+    "image": "categories/brown.jpg"
+  }
+},
+{
+  "model": "api.category",
+  "pk": 3,
+  "fields": {
+    "name": "Cupcake",
+    "image": "categories/cup.jpg"
+  }
+},
+{
+  "model": "api.category",
+  "pk": 4,
+  "fields": {
+    "name": "Mousse",
+    "image": "categories/mouse.jpg"
+  }
+},
+{
+  "model": "api.category",
+  "pk": 5,
+  "fields": {
+    "name": "Pudding",
+    "image": "categories/Caramel_Custard_Pudding.jpg"
+  }
+},
+{
+  "model": "api.category",
+  "pk": 6,
+  "fields": {
+    "name": "Tart",
+    "image": "categories/tart.jpg"
+  }
+},
+{
+  "model": "api.category",
+  "pk": 7,
+  "fields": {
+    "name": "Donut",
+    "image": "categories/donut.jpg"
+  }
+},
+{
+  "model": "api.category",
+  "pk": 8,
+  "fields": {
+    "name": "Macaron",
+    "image": "categories/macaron.jpg"
+  }
+},
+{
+  "model": "api.category",
+  "pk": 9,
+  "fields": {
+    "name": "Pie",
+    "image": "categories/pie.jpg"
+  }
+},
+{
+  "model": "api.category",
+  "pk": 10,
+  "fields": {
+    "name": "Pastry",
+    "image": "categories/pastry.jpg"
+  }
+},
+{
+  "model": "api.product",
+  "pk": 1,
+  "fields": {
+    "name": "Strawberry Cheesecake",
+    "price": "300.00",
+    "description": "Deliciously creamy strawberry cheesecake with biscuit base",
+    "brand": "SweetBite",
+    "image": "products/cheese.jpg",
+    "category": 1,
+    "active": true
+  }
+},
+{
+  "model": "api.product",
+  "pk": 2,
+  "fields": {
+    "name": "Classic Brownie",
+    "price": "150.00",
+    "description": "Fudgy chocolate brownie topped with choco chips",
+    "brand": "FudgeFactory",
+    "image": "products/brownie.jpg",
+    "category": 2,
+    "active": true
+  }
+},
+{
+  "model": "api.product",
+  "pk": 3,
+  "fields": {
+    "name": "Vanilla Cupcake",
+    "price": "89.00",
+    "description": "Soft vanilla cupcake with whipped frosting",
+    "brand": "CupcakeHeaven",
+    "image": "products/cupcake.jpg",
+    "category": 3,
+    "active": true
+  }
+},
+{
+  "model": "api.product",
+  "pk": 4,
+  "fields": {
+    "name": "Chocolate Mousse",
+    "price": "199.00",
+    "description": "Rich chocolate mousse with dark choco flakes",
+    "brand": "MousseMood",
+    "image": "products/mousse.jpg",
+    "category": 4,
+    "active": true
+  }
+},
+{
+  "model": "api.product",
+  "pk": 5,
+  "fields": {
+    "name": "Red Velvet Cake",
+    "price": "399.00",
+    "description": "Moist red velvet layered with cream cheese frosting",
+    "brand": "SweetBite",
+    "image": "products/red_velvet.jpg",
+    "category": 1,
+    "active": true
+  }
+},
+{
+  "model": "api.product",
+  "pk": 6,
+  "fields": {
+    "name": "Walnut Brownie",
+    "price": "179.00",
+    "description": "Brownie filled with crunchy walnuts and fudge",
+    "brand": "FudgeFactory",
+    "image": "products/walnut_brownie.jpg",
+    "category": 2,
+    "active": true
+  }
+},
+{
+  "model": "api.product",
+  "pk": 7,
+  "fields": {
+    "name": "Chocolate Cupcake",
+    "price": "99.00",
+    "description": "Decadent chocolate cupcake with choco frosting",
+    "brand": "CupcakeHeaven",
+    "image": "products/chocolate_cupcake.jpg",
+    "category": 3,
+    "active": true
+  }
+},
+{
+  "model": "api.product",
+  "pk": 8,
+  "fields": {
+    "name": "Mango Mousse",
+    "price": "179.00",
+    "description": "Fresh mango mousse with whipped cream topping",
+    "brand": "MousseMood",
+    "image": "products/mango_mousse.jpg",
+    "category": 4,
+    "active": true
+  }
+},
+{
+  "model": "api.product",
+  "pk": 9,
+  "fields": {
+    "name": "Black Forest",
+    "price": "50.00",
+    "description": "Classic chocolate and cherry layered cake with cream",
+    "brand": "SweetBite",
+    "image": "products/forest.jpg",
+    "category": 1,
+    "active": true
+  }
+},
+{
+  "model": "api.product",
+  "pk": 10,
+  "fields": {
+    "name": "Blueberry Cheesecake",
+    "price": "50.00",
+    "description": "Smooth cheesecake topped with fresh blueberries",
+    "brand": "SweetBite",
+    "image": "products/blue.jpg",
+    "category": 1,
+    "active": true
+  }
+},
+{
+  "model": "api.product",
+  "pk": 11,
+  "fields": {
+    "name": "Oreo Brownie",
+    "price": "169.00",
+    "description": "Chocolate brownie layered with Oreo cookie pieces",
+    "brand": "FudgeFactory",
+    "image": "products/oreo.jpg",
+    "category": 2,
+    "active": true
+  }
+},
+{
+  "model": "api.product",
+  "pk": 12,
+  "fields": {
+    "name": "Lemon Cupcake",
+    "price": "89.00",
+    "description": "Zesty lemon-flavored cupcake with soft frosting",
+    "brand": "CupcakeHeaven",
+    "image": "products/lem.jpg",
+    "category": 3,
+    "active": true
+  }
+},
+{
+  "model": "api.product",
+  "pk": 13,
+  "fields": {
+    "name": "Tiramisu Mousse",
+    "price": "219.00",
+    "description": "Coffee-flavored mousse with a creamy, soft texture",
+    "brand": "MousseMood",
+    "image": "products/tirmu.jpg",
+    "category": 4,
+    "active": true
+  }
+},
+{
+  "model": "api.product",
+  "pk": 14,
+  "fields": {
+    "name": "Peanut Butter Brownie",
+    "price": "189.00",
+    "description": "Fudgy brownie with rich peanut butter swirls",
+    "brand": "FudgeFactory",
+    "image": "products/penn.jpg",
+    "category": 2,
+    "active": true
+  }
+},
+{
+  "model": "api.product",
+  "pk": 15,
+  "fields": {
+    "name": "Caramel Custard Pudding",
+    "price": "20.00",
+    "description": "Silky custard topped with golden caramel",
+    "brand": "SweetNest",
+    "image": "products/caram.jpg",
+    "category": 5,
+    "active": true
+  }
+},
+{
+  "model": "api.product",
+  "pk": 16,
+  "fields": {
+    "name": "Chocolate Lava Pudding",
+    "price": "200.00",
+    "description": "Warm chocolate pudding with gooey center",
+    "brand": "Dessertify",
+    "image": "products/chocolava.jpg",
+    "category": 5,
+    "active": true
+  }
+},
+{
+  "model": "api.product",
+  "pk": 17,
+  "fields": {
+    "name": "Vanilla Milk Pudding",
+    "price": "150.00",
+    "description": "Smooth vanilla pudding with creamy milk flavor",
+    "brand": "CreamCraft",
+    "image": "products/vami.jpg",
+    "category": 5,
+    "active": true
+  }
+},
+{
+  "model": "api.product",
+  "pk": 18,
+  "fields": {
+    "name": "Mango Pudding",
+    "price": "40.00",
+    "description": "Refreshing mango-flavored pudding with soft texture",
+    "brand": "TastyTreats",
+    "image": "products/mp.jpg",
+    "category": 5,
+    "active": true
+  }
+},
+{
+  "model": "api.product",
+  "pk": 19,
+  "fields": {
+    "name": "Lemon Tart",
+    "price": "200.00",
+    "description": "Tangy lemon filling in a buttery tart shell",
+    "brand": "BakeHouse",
+    "image": "products/lt.jpg",
+    "category": 6,
+    "active": true
+  }
+},
+{
+  "model": "api.product",
+  "pk": 20,
+  "fields": {
+    "name": "Chocolate Ganache Tart",
+    "price": "55.00",
+    "description": "Rich chocolate ganache in crisp tart crust",
+    "brand": "SweetNest",
+    "image": "products/ce.jpg",
+    "category": 6,
+    "active": true
+  }
+},
+{
+  "model": "api.product",
+  "pk": 21,
+  "fields": {
+    "name": "Berry Cream Tart",
+    "price": "100.00",
+    "description": "Sweet cream topped with fresh seasonal berries",
+    "brand": "Dessertify",
+    "image": "products/3aa.jpg",
+    "category": 6,
+    "active": true
+  }
+},
+{
+  "model": "api.product",
+  "pk": 22,
+  "fields": {
+    "name": "Chocolate Donut",
+    "price": "200.00",
+    "description": "Soft donut with chocolate glaze topping",
+    "brand": "DoughDelight",
+    "image": "products/cd.jpg",
+    "category": 7,
+    "active": true
+  }
+},
+{
+  "model": "api.product",
+  "pk": 23,
+  "fields": {
+    "name": "Strawberry Glazed Donut",
+    "price": "60.00",
+    "description": "Fluffy donut with sweet strawberry glaze",
+    "brand": "SweetNest",
+    "image": "products/sd.jpg",
+    "category": 7,
+    "active": true
+  }
+},
+{
+  "model": "api.product",
+  "pk": 24,
+  "fields": {
+    "name": "Vanilla Frost Donut",
+    "price": "110.00",
+    "description": "Classic donut topped with vanilla frosting",
+    "brand": "BakeHouse",
+    "image": "products/fde.jpg",
+    "category": 7,
+    "active": true
+  }
+},
+{
+  "model": "api.product",
+  "pk": 25,
+  "fields": {
+    "name": "Classic French Macaron",
+    "price": "120.00",
+    "description": "Light and crunchy meringue sandwich with filling",
+    "brand": "Macaroonie",
+    "image": "products/cfm.jpg",
+    "category": 8,
+    "active": true
+  }
+},
+{
+  "model": "api.product",
+  "pk": 26,
+  "fields": {
+    "name": "Chocolate Macaron",
+    "price": "300.00",
+    "description": "Chocolate-flavored delicate macaron with creamy filling",
+    "brand": "SweetNest",
+    "image": "products/cm.jpg",
+    "category": 8,
+    "active": true
+  }
+},
+{
+  "model": "api.product",
+  "pk": 27,
+  "fields": {
+    "name": "Apple Pie",
+    "price": "300.00",
+    "description": "Warm apple filling encased in flaky pastry crust",
+    "brand": "PiePlanet",
+    "image": "products/pieapple.jpg",
+    "category": 9,
+    "active": true
+  }
+},
+{
+  "model": "api.product",
+  "pk": 28,
+  "fields": {
+    "name": "Chocolate Cream Pie",
+    "price": "240.00",
+    "description": "Rich chocolate cream in a crisp pie crust",
+    "brand": "SweetNest",
+    "image": "products/pi.jpg",
+    "category": 9,
+    "active": true
+  }
+},
+{
+  "model": "api.product",
+  "pk": 29,
+  "fields": {
+    "name": "Chocolate Truffle Pastry",
+    "price": "45.00",
+    "description": "Flaky pastry filled with smooth chocolate truffle",
+    "brand": "PuffPastry",
+    "image": "products/tuffle.jpg",
+    "category": 10,
+    "active": true
+  }
+},
+{
+  "model": "api.cart",
+  "pk": 14,
+  "fields": {
+    "user": 26,
+    "product": 2,
+    "quantity": 2
+  }
+},
+{
+  "model": "api.cart",
+  "pk": 15,
+  "fields": {
+    "user": 31,
+    "product": 16,
+    "quantity": 1
+  }
+},
+{
+  "model": "api.cart",
+  "pk": 16,
+  "fields": {
+    "user": 31,
+    "product": 15,
+    "quantity": 1
+  }
+},
+{
+  "model": "api.cart",
+  "pk": 17,
+  "fields": {
+    "user": 31,
+    "product": 2,
+    "quantity": 1
+  }
+},
+{
+  "model": "api.wishlist",
+  "pk": 6,
+  "fields": {
+    "user": 26,
+    "product": 7
+  }
+},
+{
+  "model": "api.wishlist",
+  "pk": 7,
+  "fields": {
+    "user": 31,
+    "product": 6
+  }
+},
+{
+  "model": "api.order",
+  "pk": 20,
+  "fields": {
+    "user": 31,
+    "total": "220.00",
+    "status": "shipped",
+    "created_at": "2025-10-27T11:31:25.963Z",
+    "razorpay_order_id": "order_RYTvOTYww6EAmX",
+    "razorpay_payment_id": "pay_RYTvY6oz6h4HcD"
+  }
+},
+{
+  "model": "api.orderitem",
+  "pk": 57,
+  "fields": {
+    "order": 20,
+    "product": 16,
+    "quantity": 1,
+    "price": "200.00"
+  }
+},
+{
+  "model": "api.orderitem",
+  "pk": 58,
+  "fields": {
+    "order": 20,
+    "product": 15,
+    "quantity": 1,
+    "price": "20.00"
+  }
+}
+]
